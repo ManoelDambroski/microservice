@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dam</groupId>
-	<artifactId>foo</artifactId>
+	<artifactId>greetingService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bar</name>
 	<description>Demo project for Spring Boot</description>
